@@ -69,7 +69,7 @@ ba_track_id: 3d40b2576e2ba6ebd0b54564eab749e4
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写代码，看书，旅行。<br>世界那么大，趁年轻多走走。"
+sidebar-about-description: "写代码，看书，旅行。<br>世界那么大，趁年轻跟喜欢的菇娘多出去走走。"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
