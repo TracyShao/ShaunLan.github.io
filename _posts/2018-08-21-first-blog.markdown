@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "First Blog"
-subtitle:   "Hello world"
-date:       2018-08-21
+title:      "人世间每一次相遇都是久别重逢"
+subtitle:   ""
+date:       2018-08-24
 author:     "TracyShao"
 header-img: "img/post-bg-2015.jpg"
 tags:
