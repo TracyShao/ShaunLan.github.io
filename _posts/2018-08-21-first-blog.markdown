@@ -6,7 +6,7 @@ date:       2018-08-21
 author:     "TracyShao"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 技术
+    - 生活
 ---
 
 ## 前言
